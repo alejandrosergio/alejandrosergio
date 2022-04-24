@@ -1,21 +1,17 @@
-<center>
-  <div>
-    <h2> Hola compañer@,  < 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />!! <img src="./img/Hi.gif" width="30px"></h2>
-  </div>
-</center>
-<center>
-  <p>
-    <a>
-      <img src="https://readme-typing-svg.herokuapp.com?lines=Desarrollador+de+software;Diseñador+UI/UX;Apasionado+por+la+informatica;&center=true&width=500&height=50"></a>
-  </p>
-</center>
+<div align="center">
+  <h2> Hola compañer@,  < 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />!! <img src="./img/Hi.gif" width="30px"></h2>
+</div>
+<p align="center">
+  <a>
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Desarrollador+de+software;Diseñador+UI/UX;Apasionado+por+la+informatica;&center=true&width=500&height=60"></a>
+</p>
 
 <p>
-  <img align="right" src="./img/animation_dev.gif" alt="Sergio-Hernández"/>
+  <img align="right" src="./img/animation_dev.gif" alt="Sergio-Hernaández" />
 </p>
 
 
-<h3>Mi nombre es <br/> Sergio Alejandro Hernández Patiño</h3>
+<h3>Mi nombre es <br/> <span style="color: rgb(0, 166, 255);">Sergio Alejandro Hernández Patiño</span> </h3>
 
 <p>💡 Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.</p>
 
