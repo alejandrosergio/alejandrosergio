@@ -11,14 +11,14 @@
 </p>
 
 <div>
-  <h2> Acerca de mi</h2>
+  <h2>Acerca de mi</h2>
 </div>
 
 <h4>Mi nombre es Sergio Alejandro Hernández Patiño</h4>
 
 <p>💡 Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.</p>
 
-<p>🎓 Actualmente estoy estudiando Ingles y distintas tecnologias autodidacta.</p>
+<p>🎓 Actualmente me encuentro estudiando ingles y distintas tecnologías de la información de forma autodidacta.</p>
 
 <p>🌱 Voy por buen camino para aprender más sobre inteligencia artificial, diseño de sistemas y arquitectura en la nube.</p>
 
@@ -27,7 +27,7 @@
 <p>💬 Siéntase libre de comunicarse conmigo para consultoría y voluntariado, o simplemente para una discusión interesante.</p>
 
 <p>✉️ ¡Puedes enviarme un correo electrónico a <br> 
-  (<a href="mailto:alejandro.dev.sergio@outlook.com" target="_BLANK">alejandro.dev.sergio@outlook.com</a><br>
+<a href="mailto:alejandro.dev.sergio@outlook.com" target="_BLANK">alejandro.dev.sergio@outlook.com</a><br>
 Intentaré responder tan pronto como pueda.</p>
 
 <p>📄 Mire mi currículo-vitae: <a href="https://alejandrosergio.github.io/Curriculum-Vitae/" target="_BLANK">(alejandrosergio)</a> para obtener más detalles sobre mí. ¡Estoy abierto a comentarios y sugerencias!</p>
