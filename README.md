@@ -14,7 +14,7 @@
   <h2>Acerca de mi</h2>
 </div>
 
-<h4>Mi nombre es Sergio Alejandro Hernández Patiño</h4>
+<h4>Mi nombre es <a href="https://alejandrosergio.github.io/Curriculum-Vitae/" target="_BLANK">Sergio Alejandro Hernández Patiño</a></h4>
 
 <p>💡 Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.</p>
 
