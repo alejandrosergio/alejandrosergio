@@ -3,15 +3,18 @@
 </div>
 <p align="center">
   <a>
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Desarrollador+de+software;Diseñador+UI/UX;Apasionado+por+la+informatica;&center=true&width=500&height=60"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Desarrollador+de+software;Diseñador+WEB;Apasionado+por+la+informatica;Marketing+digital;Desarrollo+personal&center=true&width=500&height=60"></a>
 </p>
 
 <p>
   <img align="right" src="./img/animation_dev.gif" alt="Sergio-Hernaández" />
 </p>
 
+<div>
+  <h2> Acerca de mi</h2>
+</div>
 
-<h3>Mi nombre es <br/> <span style="color: rgb(0, 166, 255);">Sergio Alejandro Hernández Patiño</span> </h3>
+<h4>Mi nombre es Sergio Alejandro Hernández Patiño</h4>
 
 <p>💡 Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.</p>
 
@@ -28,3 +31,32 @@
 Intentaré responder tan pronto como pueda.</p>
 
 <p>📄 Mire mi [currículo-vitae] <a href="https://alejandrosergio.github.io/Curriculum-Vitae/" target="_BLANK">(alejandrosergio)</a> para obtener más detalles sobre mí. ¡Estoy abierto a comentarios y sugerencias!</p>
+
+<br>
+<div align="right">
+
+</div>
+<h2> Tecnologias 
+<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
+</h2>
+
+<h2> Contactame</h2>
+<br>
+<br>
+<br>
+[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aditya664&theme=tokyonight)](https://git.io/praveenscience)
+
+| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
+
+<br>
+
+
+-----
+Credits: Sergio Alejandro Hernández Patiño
+
+Last Edited on: 24/04/2022
