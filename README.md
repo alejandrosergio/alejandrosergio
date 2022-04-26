@@ -41,11 +41,19 @@ Intentaré responder tan pronto como pueda.</p>
 <h2> Tecnologias 
 <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 </h2>
-
+<div style="display: inline_block"><br>
+  <img align="center" alt="sergio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="sergio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="sergio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="sergio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="sergio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="right" alt="Sergio-Hernandez" height="180" style="border-radius:50px;" src="https://media2.giphy.com/media/jdFm2bcWlj4EUVCpc0/giphy.gif?cid=ecf05e47mosq9xan63rjan9r928bdppeup4f1nqt985nx8jh&rid=giphy.gif&ct=g">
+</div>
+<br>
 <h2> Contactame
 <img src = "https://media.giphy.com/media/NHGNNltlYAHO9bbWLb/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 </h2>
-<a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:alejandro.dev.sergio@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/sergio-alejandro-hern%C3%A1ndez-pati%C3%B1o-153a3a1b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <br>
@@ -75,7 +83,10 @@ Intentaré responder tan pronto como pueda.</p>
 <br/>
 
 
+<!--![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)-->
+
+
 -----
 Créditos: Sergio Alejandro Hernández Patiño
 
-Última edición el: 24/04/2022
+Última edición el: 25/04/2022
