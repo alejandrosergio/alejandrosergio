@@ -91,7 +91,7 @@ i will try to answer as soon as i can!.</p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alejandrosergio&theme=algolia" alt="alejandrosergio" /></p>
 <br/>
   
-<b>Nota:</b> Primary languages are just a metric of the langues my public code is composed in and do not reflect experience or skill level.
+<b>Note:</b> Primary languages are just a metric of the langues my public code is composed in and do not reflect experience or skill level.
 </p>
 
 ----
