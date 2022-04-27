@@ -86,7 +86,7 @@ i will try to answer as soon as i can!.</p>
 <br/>
 
 
-<!--![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)-->
+![Snake animation](https://github.com/alejandrosergio/alejandrosergio/blob/main/img/github-contribution-grid-snake.svg)
 
 -----
 credits: Sergio Alejandro Hernández Patiño
