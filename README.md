@@ -105,6 +105,6 @@ i will try to answer as soon as i can!.</p>
 ![Snake animation](https://github.com/alejandrosergio/alejandrosergio/blob/main/img/github-contribution-grid-snake.svg)
 
 -----
-credits: Sergio Alejandro Hernández Patiño
+Credits: Sergio Alejandro Hernández Patiño
 
 Last edited on: 27/04/2022
