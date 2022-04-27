@@ -56,6 +56,7 @@ i will try to answer as soon as i can!.</p>
 <img align="center" title="SQL" alt="sergio-SQL" height="40" width="40" src="./img//sql.png">
 <img align="center" title="SQL Server" alt="sergio-SQL Server" height="40" width="40" src="./img/microsoft-sql-server.svg">
 <img align="center" title="MySQL" alt="sergio-MySQL" height="40" width="40" src="./img/MySQL.png">
+<br/><br/>
 <img align="center" title="Oracle" alt="sergio-Oracle" height="40" width="40" src="./img/oracle.png">
 <img align="center" title="JQuery" alt="sergio-JQuery" height="40" width="40" src="./img/jquery.png">
 <img align="center" title="Bootstrap" alt="sergio-Bootstrap" height="40" width="40" src="./img/Bootstrap.svg.png">
