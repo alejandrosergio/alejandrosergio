@@ -45,10 +45,6 @@ i will try to answer as soon as i can!.</p>
 </h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="sergio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="sergio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="sergio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="sergio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="sergio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Sergio-Hernandez" height="180" style="border-radius:50px;" src="https://media2.giphy.com/media/jdFm2bcWlj4EUVCpc0/giphy.gif?cid=ecf05e47mosq9xan63rjan9r928bdppeup4f1nqt985nx8jh&rid=giphy.gif&ct=g">
 </div>
 <br>
