@@ -43,6 +43,27 @@ i will try to answer as soon as i can!.</p>
 </h2>
 <div style="display: inline_block"><br>
 <img align="center" title="HTML5" alt="sergio-HTML" height="40" width="40" src="./img/HTML.svg.png">
+<img align="center" title="CSS3" alt="sergio-CSS3" height="40" width="40" src="./img/CSS3.svg.png">
+<img align="center" title="JavaScript" alt="sergio-JavaScript" height="40" width="40" src="./img/javascript.svg">
+<img align="center" title="Angular" alt="sergio-Angular" height="40" width="40" src="./img/Angular.svg">
+<img align="center" title="TypeScript" alt="sergio-TypeScript" height="40" width="40" src="./img/Typescript.svg.png">
+<img align="center" title="NodeJS" alt="sergio-NodeJS" height="40" width="40" src="./img/nodejs.png">
+<img align="center" title="PHP" alt="sergio-PHP" height="40" width="40" src="./img/PHP.svg">
+<img align="center" title="JAVA" alt="sergio-JAVA" height="40" width="40" src="./img/java.svg">
+<img align="center" title="C#" alt="sergio-C#" height="40" width="40" src="./img/cshr.svg">
+<img align="center" title=".NET" alt="sergio-.NET" height="40" width="40" src="./img//NET.svg.png">
+<img align="center" title="Spring" alt="sergio-Spring" height="40" width="40" src="./img/spring.png">
+<img align="center" title="SQL" alt="sergio-SQL" height="40" width="40" src="./img//sql.png">
+<img align="center" title="SQL Server" alt="sergio-SQL Server" height="40" width="40" src="./img/microsoft-sql-server.svg">
+<img align="center" title="MySQL" alt="sergio-MySQL" height="40" width="40" src="./img/MySQL.png">
+<img align="center" title="Oracle" alt="sergio-Oracle" height="40" width="40" src="./img/oracle.png">
+<img align="center" title="JQuery" alt="sergio-JQuery" height="40" width="40" src="./img/jquery.png">
+<img align="center" title="Bootstrap" alt="sergio-Bootstrap" height="40" width="40" src="./img/Bootstrap.svg.png">
+<img align="center" title="GIT" alt="sergio-GIT" height="40" width="40" src="./img/Git.svg.png">
+<img align="center" title="GitHub" alt="sergio-GitHub" height="40" width="40" src="./img/github.svg">
+<img align="center" title="PowerApps" alt="sergio-PowerApps" height="40" width="40" src="./img/Microsoft_Power_Apps.png">
+<img align="center" title="PowerAutomate" alt="sergio-PowerAutomate" height="40" width="40" src="./img/Microsoft_Power_Automate.png">
+<img align="center" title="PowerBI" alt="sergio-PowerBI" height="40" width="40" src="./img/Power_BI_Logo.svg.png">
 <img align="right" alt="Sergio-Hernandez" height="180" style="border-radius:50px;" src="https://media2.giphy.com/media/jdFm2bcWlj4EUVCpc0/giphy.gif?cid=ecf05e47mosq9xan63rjan9r928bdppeup4f1nqt985nx8jh&rid=giphy.gif&ct=g">
 </div>
 <br>
