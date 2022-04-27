@@ -1,44 +1,46 @@
 <div align="center">
-  <h2> Hola compañer@,  < 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />!! <img src="./img/Hi.gif" width="30px"></h2>
+  <h2> Hello there, fellow  <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛/>!! <img src="./img/Hi.gif" width="30px"></h2>
 </div>
 <p align="center">
   <a>
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Desarrollador+de+software;Diseñador+Web;Apasionado+por+la+informatica;Marketing+digital;Desarrollo+personal&center=true&width=500&height=60"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Software+developer;Designer+Web;Passionate+about+computing;Digital+marketing;Personal+development&center=true&width=500&height=60"></a>
 </p>
 
 <p>
-  <img align="right" src="./img/animation_dev.gif" alt="Sergio-Hernández" />
+  <img align="right" src="./img/animation_dev.gif" alt="Sergio-Hernández"/>
 </p>
 
 <div>
-  <h2>Acerca de mi
-    <img src = "https://media.giphy.com/media/UttRtwUfRuvnHre7aF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> 
+  <h2>About me
+    <img src = "https://media.giphy.com/media/UttRtwUfRuvnHre7aF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 65px> 
   </h2>
 </div>
 
-<h4>Mi nombre es <a href="https://alejandrosergio.github.io/Curriculum-Vitae/" target="_BLANK">Sergio Alejandro Hernández Patiño</a></h4>
+<h4>My name is <a href="https://alejandrosergio.github.io/Curriculum-Vitae/" target="_BLANK">Sergio Alejandro Hernández Patiño</a></h4>
 
-<p>💡 Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.</p>
+<p>💡 I like to explore new technologies and develop software solutions and quick tricks.</p>
 
-<p>🎓 Actualmente me encuentro estudiando ingles y distintas tecnologías de la información de forma autodidacta.</p>
+<p>🎓 I am currently studying English and different information technologies in a self-taught way.</p>
 
-<p>🌱 Voy por buen camino para aprender más sobre inteligencia artificial, diseño de sistemas y arquitectura en la nube.</p>
+<p>🌱 I'm well on my way to learning more about AI, system design, and cloud architecture.</p>
 
-<p>✍️ En mi tiempo libre, me dedico al diseño web y la redacción de blogs como pasatiempos/actividades paralelas.</p>
+<p>✍️ In my spare time, I do web design and blog writing as hobbies/side activities.</p>
 
-<p>💬 Siéntase libre de comunicarse conmigo para consultoría y voluntariado, o simplemente para una discusión interesante.</p>
+<p>💬 Feel free to contact me for consulting and volunteering, or just for an interesting discussion..</p>
 
-<p>✉️ ¡Puedes enviarme un correo electrónico a <br> 
+<p>✉️ You can email me at <br> 
 <a href="mailto:alejandro.dev.sergio@outlook.com" target="_BLANK">alejandro.dev.sergio@outlook.com</a><br>
-Intentaré responder tan pronto como pueda.</p>
+or<br>
+<a href="mailto:alejosergio3000@gmail.com" target="_BLANK">alejosergio3000@gmail.com</a><br>
+i will try to answer as soon as i can!.</p>
 
-<p>📄 Mire mi curriculum vitae: <a href="https://alejandrosergio.github.io/Curriculum-Vitae/" target="_BLANK">(alejandrosergio)</a> para obtener más detalles sobre mí. ¡Estoy abierto a comentarios y sugerencias!</p>
+<p>📄 Look at my resume: <a href="https://alejandrosergio.github.io/Curriculum-Vitae/" target="_BLANK">(Sergio Hernández)</a> for more details about me. !I am open to comments and suggestions!</p>
 
 <br>
 <div align="right">
 
 </div>
-<h2> Tecnologias 
+<h2> Technologies 
 <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 </h2>
 <div style="display: inline_block"><br>
@@ -50,43 +52,43 @@ Intentaré responder tan pronto como pueda.</p>
   <img align="right" alt="Sergio-Hernandez" height="180" style="border-radius:50px;" src="https://media2.giphy.com/media/jdFm2bcWlj4EUVCpc0/giphy.gif?cid=ecf05e47mosq9xan63rjan9r928bdppeup4f1nqt985nx8jh&rid=giphy.gif&ct=g">
 </div>
 <br>
-<h2> Contactame
+<h2> Contact me
 <img src = "https://media.giphy.com/media/NHGNNltlYAHO9bbWLb/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 </h2>
-<a href = "mailto:alejandro.dev.sergio@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:alejandro.dev.sergio@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%230077B5?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:alejosergio3000@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=blues" target="_blank"></a>
 <a href="https://www.linkedin.com/in/sergio-alejandro-hern%C3%A1ndez-pati%C3%B1o-153a3a1b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <br>
 <br>
 <div>
-  <h2>Github Estadísticas
+  <h2>Github Stats
     <img src = "https://media.giphy.com/media/RVWSqOsgDAq0W3051o/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50px> 
   </h2>
 </div>
-<summary><b>💻 GitHub Estadísticas de perfil</b></summary>
+<summary><b>💻 GitHub Profile Stats</b></summary>
 <br/>
 <p align="center">
- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="alejandrosergio Github Estadísticas" src="https://github-readme-stats.vercel.app/api?username=alejandrosergio&show_icons=true&count_private=true&theme=algolia" height="200px"/></a>
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="alejandrosergio GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=alejandrosergio&show_icons=true&count_private=true&theme=algolia" height="200px"/></a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandrosergio&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="alejandrosergio" height="200px"/>
 <br/>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alejandrosergio&theme=algolia" alt="alejandrosergio" /></p>
 <br/>
   
-<b>Nota:</b> Los languages principales son solo una métrica de los languages en los que se compone mi código público y no reflejan la experiencia o el nivel de habilidad.
+<b>Nota:</b> Primary languages ​​are just a metric of the langues my public code is composed in and do not reflect experience or skill level.
 </p>
 
 ----
 
 <summary><b>⚡ Actividad reciente de GitHub</b></summary>
 <br/>
-<a href="https://github.com/7oSkaaa"><img alt="alejandrosergio Gráfico de actividad" src="https://activity-graph.herokuapp.com/graph?username=alejandrosergio&custom_title=alejandrosergio%20Contribucion%20Grafico&theme=react-dark" /></a>
+<a href="https://github.com/7oSkaaa"><img alt="alejandrosergio activity graph" src="https://activity-graph.herokuapp.com/graph?username=alejandrosergio&custom_title=alejandrosergio%20Contribution%20Graphic&theme=react-dark" /></a>
 <br/>
 
 
 <!--![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)-->
 
-
 -----
-Créditos: Sergio Alejandro Hernández Patiño
+credits: Sergio Alejandro Hernández Patiño
 
-Última edición el: 25/04/2022
+Last edited on: 27/04/2022
