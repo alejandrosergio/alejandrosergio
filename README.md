@@ -26,7 +26,7 @@
 
 <p>✍️ In my spare time, I do web design and blog writing as hobbies/side activities.</p>
 
-<p>💬 Feel free to contact me for consulting and volunteering, or just for an interesting discussion..</p>
+<p>💬 Feel free to contact me for consulting and volunteering, or just for an interesting discussion.</p>
 
 <p>✉️ You can email me at <br> 
 <a href="mailto:alejandro.dev.sergio@outlook.com" target="_BLANK">alejandro.dev.sergio@outlook.com</a><br>
@@ -34,7 +34,7 @@ or<br>
 <a href="mailto:alejosergio3000@gmail.com" target="_BLANK">alejosergio3000@gmail.com</a><br>
 i will try to answer as soon as i can!.</p>
 
-<p>📄 Look at my resume: <a href="https://alejandrosergio.github.io/Curriculum-Vitae/" target="_BLANK">(Sergio Hernández)</a> for more details about me. !I am open to comments and suggestions!</p>
+<p>📄 Look at my resume: <a href="https://alejandrosergio.github.io/Curriculum-Vitae/" target="_BLANK">(Sergio Hernández)</a> for more details about me. !I am open to comments and suggestions!.</p>
 <br>
 <div align="right">
 </div>
@@ -91,7 +91,7 @@ i will try to answer as soon as i can!.</p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alejandrosergio&theme=algolia" alt="alejandrosergio" /></p>
 <br/>
   
-<b>Nota:</b> Primary languages ​​are just a metric of the langues my public code is composed in and do not reflect experience or skill level.
+<b>Nota:</b> Primary languages are just a metric of the langues my public code is composed in and do not reflect experience or skill level.
 </p>
 
 ----
