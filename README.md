@@ -35,17 +35,15 @@ or<br>
 i will try to answer as soon as i can!.</p>
 
 <p>📄 Look at my resume: <a href="https://alejandrosergio.github.io/Curriculum-Vitae/" target="_BLANK">(Sergio Hernández)</a> for more details about me. !I am open to comments and suggestions!</p>
-
 <br>
 <div align="right">
-
 </div>
 <h2> Technologies 
 <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 </h2>
 <div style="display: inline_block"><br>
-  <img align="center" alt="sergio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Sergio-Hernandez" height="180" style="border-radius:50px;" src="https://media2.giphy.com/media/jdFm2bcWlj4EUVCpc0/giphy.gif?cid=ecf05e47mosq9xan63rjan9r928bdppeup4f1nqt985nx8jh&rid=giphy.gif&ct=g">
+<img align="center" title="HTML5" alt="sergio-HTML" height="40" width="40" src="./img/HTML.svg.png">
+<img align="right" alt="Sergio-Hernandez" height="180" style="border-radius:50px;" src="https://media2.giphy.com/media/jdFm2bcWlj4EUVCpc0/giphy.gif?cid=ecf05e47mosq9xan63rjan9r928bdppeup4f1nqt985nx8jh&rid=giphy.gif&ct=g">
 </div>
 <br>
 <h2> Contact me
