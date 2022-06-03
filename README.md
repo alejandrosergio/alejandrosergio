@@ -1,5 +1,5 @@
 <div align="center">
-  <h2> Hello there, fellow  <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛/>!! <img src="./img/Hi.gif" width="30px"></h2>
+  <h2> Hello there, fellow  <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛/>!! <img src="./img/Hi.gif" width="40"></h2>
 </div>
 <br>
 <p align="center">
@@ -13,7 +13,7 @@
 
 <div>
   <h2>About me
-    <img src = "https://media.giphy.com/media/UttRtwUfRuvnHre7aF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 65px> 
+    <img src = "https://media.giphy.com/media/UttRtwUfRuvnHre7aF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 65> 
   </h2>
 </div>
 
@@ -37,7 +37,7 @@
 <div align="right">
 </div>
 <h2> Technologies 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px/> 
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32 /> 
 </h2>
 <div style="display: inline_block" align="center"><br>
 <img align="center" title="HTML5" alt="sergio-HTML" height="40" width="40" src="./img/HTML.svg.png">
@@ -67,7 +67,7 @@
 <br/>
 <br>
 <h2> Contact me
-<img src="https://media.giphy.com/media/NHGNNltlYAHO9bbWLb/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
+<img src="https://media.giphy.com/media/NHGNNltlYAHO9bbWLb/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32> 
 </h2>
 </div>
 <br>
@@ -81,7 +81,7 @@
 <br>
 <div>
   <h2>Github Stats
-    <img src = "https://media.giphy.com/media/RVWSqOsgDAq0W3051o/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50px> 
+    <img src = "https://media.giphy.com/media/RVWSqOsgDAq0W3051o/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50> 
   </h2>
 </div>
 <summary><b>💻 GitHub Profile Stats</b></summary>
@@ -109,4 +109,4 @@
 -----
 Credits: Sergio Alejandro Hernández Patiño
 
-Last edited on: 26/05/2022
+Last edited on: 03/06/2022
