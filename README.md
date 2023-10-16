@@ -100,7 +100,7 @@
 
 <summary><b>⚡ Recent GitHub Activity</b></summary>
 <br/>
-<a href="https://github.com/7oSkaaa"><img alt="alejandrosergio activity graph" src="https://activity-graph.herokuapp.com/graph?username=alejandrosergio&custom_title=alejandrosergio%20Contribution%20Graphic&theme=react-dark" /></a>
+<!--<a href="https://github.com/7oSkaaa"><img alt="alejandrosergio activity graph" src="https://activity-graph.herokuapp.com/graph?username=alejandrosergio&custom_title=alejandrosergio%20Contribution%20Graphic&theme=react-dark" /></a>-->
 <br/>
 
 
