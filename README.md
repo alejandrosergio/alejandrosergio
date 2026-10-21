@@ -1,112 +1,89 @@
-<div align="center">
-  <h2> Hello there, fellow  <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛/>!! <img src="./img/Hi.gif" width="40"></h2>
-</div>
-<br>
+<p align="right"><strong>Español</strong> · <a href="./README.en.md">English</a></p>
+
 <p align="center">
-  <a>
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Software+developer;Designer+Web;Passionate+about+computing;Digital+marketing;Personal+development&center=true&width=500&height=60"></a>
+  <img src="./profile/header-es.svg" width="100%" alt="Sergio Hernández · .NET y Power Platform · Full stack, automatización e integración de IA" />
 </p>
 
 <p align="center">
-  <img  src="./img/animation_dev.gif" alt="Sergio-Hernández" width="300"/>
+  <a href="https://sergio-hernandez-cv.alejosergio3000.chatgpt.site/"><img src="https://img.shields.io/badge/CV-Espa%C3%B1ol-0078D4?style=for-the-badge" alt="Consultar CV en español" /></a>
+  <a href="https://sergio-hernandez-cv.alejosergio3000.chatgpt.site/en/"><img src="https://img.shields.io/badge/CV-English-10243D?style=for-the-badge" alt="Read my CV in English" /></a>
+  <a href="https://www.linkedin.com/in/sergio-alejandro-hernandez-patino/"><img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge" alt="Perfil de LinkedIn" /></a>
 </p>
 
-<div>
-  <h2>About me
-    <img src = "https://media.giphy.com/media/UttRtwUfRuvnHre7aF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 65> 
-  </h2>
-</div>
+## Sobre mí
 
-<h4>My name is <a href="https://alejandrosergio.github.io/Curriculum-Vitae-En/" target="_BLANK">Sergio Alejandro Hernández Patiño</a></h4>
+Soy **Sergio Alejandro Hernández Patiño**, desarrollador **.NET y Microsoft Power Platform** en Cali, Colombia. Aporto **más de seis años de experiencia** combinando desarrollo de software, consultoría y liderazgo técnico.
 
-<p>💡 I like to explore new technologies and develop software solutions and quick tricks.</p>
+Desarrollo aplicaciones full stack con **React y .NET**, aplicaciones empresariales y automatizaciones con **Power Platform**, e integraciones con **APIs REST y Azure**. También integro modelos de lenguaje mediante APIs en aplicaciones y flujos de trabajo.
 
-<p>🎓 I am currently studying English and different information technologies in a self-taught way.</p>
+Participo desde el análisis y el diseño hasta las pruebas, el despliegue y la evolución del software. Mi enfoque es conectar sistemas y traducir necesidades de negocio en soluciones claras y mantenibles.
 
-<p>🌱 I'm well on my way to learning more about AI, system design, and cloud architecture.</p>
+## Tecnologías y enfoque
 
-<p>✍️ In my spare time, I do web design and blog writing as hobbies/side activities.</p>
+<p>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square" alt="C#" />
+  <img src="https://img.shields.io/badge/React-10243D?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Power%20Apps-742774?style=flat-square" alt="Power Apps" />
+  <img src="https://img.shields.io/badge/Dataverse-088142?style=flat-square" alt="Dataverse" />
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square" alt="Power Automate" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square" alt="Azure" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square" alt="SQL Server" />
+</p>
 
-<p>💬 Feel free to contact me for consulting and volunteering, or just for an interesting discussion.</p>
+| Área | Tecnologías y capacidades |
+| :--- | :--- |
+| **Aplicaciones full stack** | React, JavaScript, TypeScript, C#, ASP.NET Core/Web API, Entity Framework Core y LINQ. |
+| **Power Platform** | Power Apps canvas y model-driven, Dataverse, plugins, PCF, Power Automate, RPA, conectores personalizados, soluciones y ALM. |
+| **Integración y datos** | APIs REST, Azure App Service, Azure Functions, Azure Storage, SQL Server y Power BI. |
+| **IA aplicada** | Integración de modelos de lenguaje mediante APIs en aplicaciones y automatizaciones, con revisión técnica de los resultados. |
 
-<p>✉️ You can email me at
-<a href="mailto:alejandro.dev.sergio@outlook.com" target="_BLANK">alejandro.dev.sergio@outlook.com</a> or <a href="mailto:alejosergio3000@gmail.com" target="_BLANK">alejosergio3000@gmail.com</a> i will try to answer as soon as i can!.</p>
+<details>
+<summary>Formación, idiomas y experiencia adicional</summary>
 
-<p>📄 Look at my resume: <a href="https://alejandrosergio.github.io/Curriculum-Vitae-En/" target="_BLANK">[ Curriculum-Vitae || Sergio Hernández ]</a> for more details about me. !I am open to comments and suggestions!.</p>
-<br>
-<div align="right">
-</div>
-<h2> Technologies 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32 /> 
-</h2>
-<div style="display: inline_block" align="center"><br>
-<img align="center" title="HTML5" alt="sergio-HTML" height="40" width="40" src="./img/HTML.svg.png">
-<img align="center" title="CSS3" alt="sergio-CSS3" height="40" width="40" src="./img/CSS3.svg.png">
-<img align="center" title="JavaScript" alt="sergio-JavaScript" height="40" width="40" src="./img/javascript.svg">
-<img align="center" title="Angular" alt="sergio-Angular" height="40" width="40" src="./img/Angular.svg">
-<img align="center" title="TypeScript" alt="sergio-TypeScript" height="40" width="40" src="./img/Typescript.svg.png">
-<img align="center" title="NodeJS" alt="sergio-NodeJS" height="40" width="40" src="./img/nodejs.png">
-<img align="center" title="PHP" alt="sergio-PHP" height="40" width="40" src="./img/PHP.svg">
-<img align="center" title="JAVA" alt="sergio-JAVA" height="40" width="40" src="./img/java.svg">
-<img align="center" title="C#" alt="sergio-C#" height="40" width="40" src="./img/cshr.svg">
-<img align="center" title=".NET" alt="sergio-.NET" height="40" width="40" src="./img//NET.svg.png">
-<img align="center" title="Spring" alt="sergio-Spring" height="40" width="40" src="./img/spring.png">
-  <br/><br/>
-<img align="center" title="SQL" alt="sergio-SQL" height="40" width="40" src="./img//sql.png">
-<img align="center" title="SQL Server" alt="sergio-SQL Server" height="40" width="40" src="./img/microsoft-sql-server.svg">
-<img align="center" title="MySQL" alt="sergio-MySQL" height="40" width="40" src="./img/MySQL.png">
-<img align="center" title="Oracle" alt="sergio-Oracle" height="40" width="40" src="./img/oracle.png">
-<img align="center" title="JQuery" alt="sergio-JQuery" height="40" width="40" src="./img/jquery.png">
-<img align="center" title="Bootstrap" alt="sergio-Bootstrap" height="40" width="40" src="./img/Bootstrap.svg.png">
-<img align="center" title="GIT" alt="sergio-GIT" height="40" width="40" src="./img/Git.svg.png">
-<img align="center" title="GitHub" alt="sergio-GitHub" height="40" width="40" src="./img/github.svg">
-<img align="center" title="PowerApps" alt="sergio-PowerApps" height="40" width="40" src="./img/Microsoft_Power_Apps.png">
-<img align="center" title="PowerAutomate" alt="sergio-PowerAutomate" height="40" width="40" src="./img/Microsoft_Power_Automate.png">
-<img align="center" title="PowerBI" alt="sergio-PowerBI" height="40" width="40" src="./img/Power_BI_Logo.svg.png">
-</div>
-<br/>
-<br>
-<h2> Contact me
-<img src="https://media.giphy.com/media/NHGNNltlYAHO9bbWLb/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32> 
-</h2>
-</div>
-<br>
-<br>
-<div align="center">
-<a href = "mailto:alejandro.dev.sergio@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%230077B5?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href = "mailto:alejosergio3000@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=blues" target="_blank"></a>
-<a href="https://www.linkedin.com/in/sergio-alejandro-hern%C3%A1ndez-pati%C3%B1o-153a3a1b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-<br>
-<br>
-<div>
-  <h2>Github Stats
-    <img src = "https://media.giphy.com/media/RVWSqOsgDAq0W3051o/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50> 
-  </h2>
-</div>
-<summary><b>💻 GitHub Profile Stats</b></summary>
-<br/>
+- **Formación:** Tecnólogo en Análisis y Desarrollo de Sistemas de Información (ADSI), SENA, 2019–2021.
+- **Idiomas:** español nativo e inglés B1 intermedio.
+- **Experiencia anterior:** Java, Spring Boot, Angular, Oracle y PL/SQL en desarrollo de servicios e interfaces empresariales.
+- **Herramientas y ecosistema:** Git, GitHub, Microsoft 365 y SharePoint.
+
+La trayectoria completa, con empresas, fechas y responsabilidades, está en el [CV profesional](https://sergio-hernandez-cv.alejosergio3000.chatgpt.site/).
+
+</details>
+
+## Código y proyectos públicos
+
+| Proyecto | Qué encontrarás |
+| :--- | :--- |
+| [**Currículum web bilingüe**](https://github.com/alejandrosergio/sergio-hernandez-cv) | HTML, CSS y JavaScript; accesibilidad, temas claro/oscuro y CV resumido y completo para imprimir en español e inglés. [Ver sitio](https://sergio-hernandez-cv.alejosergio3000.chatgpt.site/). |
+| [**Nexos**](https://github.com/alejandrosergio/Nexos) | Prueba técnica de desarrollo en Java. |
+
+[Explorar repositorios públicos →](https://github.com/alejandrosergio?tab=repositories)
+
+## Actividad en GitHub
+
 <p align="center">
- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="alejandrosergio GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=alejandrosergio&show_icons=true&count_private=true&theme=algolia" height="200px"/></a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandrosergio&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="alejandrosergio" height="200px"/>
-<br/>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alejandrosergio&theme=algolia" alt="alejandrosergio" /></p>
-<br/>
-  
-<b>Note:</b> Primary languages are just a metric of the langues my public code is composed in and do not reflect experience or skill level.
+  <img src="./profile/stats.svg" width="49%" alt="Estadísticas públicas de GitHub de alejandrosergio" />
+  <img src="./profile/languages.svg" width="49%" alt="Distribución de lenguajes en repositorios públicos" />
+</p>
+<p align="center">
+  <img src="./profile/streak.svg" width="75%" alt="Racha actual e histórica de contribuciones en GitHub" />
 </p>
 
-----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg" />
+  <img src="./profile/snake.svg" width="100%" alt="Animación del calendario de contribuciones de alejandrosergio" />
+</picture>
 
-<summary><b>⚡ Recent GitHub Activity</b></summary>
-<br/>
-<!--<a href="https://github.com/7oSkaaa"><img alt="alejandrosergio activity graph" src="https://activity-graph.herokuapp.com/graph?username=alejandrosergio&custom_title=alejandrosergio%20Contribution%20Graphic&theme=react-dark" /></a>-->
-<br/>
+<sub>Las métricas reflejan actividad pública en GitHub; no representan toda mi experiencia profesional. El reparto de lenguajes depende del código publicado. Las tarjetas y la animación se actualizan diariamente mediante <a href="https://github.com/alejandrosergio/alejandrosergio/actions/workflows/profile-visuals.yml">GitHub Actions</a>.</sub>
 
+## Contacto
 
-![Snake animation](https://github.com/alejandrosergio/alejandrosergio/blob/main/img/github-contribution-grid-snake.svg)
+**[alejandro.dev.sergio@outlook.com](mailto:alejandro.dev.sergio@outlook.com)** · [LinkedIn](https://www.linkedin.com/in/sergio-alejandro-hernandez-patino/) · [CV / Résumé](https://sergio-hernandez-cv.alejosergio3000.chatgpt.site/)
 
------
-Credits: Sergio Alejandro Hernández Patiño
+<details>
+<summary>Créditos de los elementos visuales</summary>
 
-Last edited on: 03/06/2022
+Cabecera propia, alineada con el CV y LinkedIn. Tarjetas: [GitHub Readme Stats](https://github.com/stats-organization/github-readme-stats-action) y [GitHub Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats). Animación: [Platane/snk](https://github.com/Platane/snk).
+
+</details>
