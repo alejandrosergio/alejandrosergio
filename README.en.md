@@ -63,11 +63,11 @@ My full experience, including employers, dates and responsibilities, is availabl
 ## GitHub activity
 
 <p align="center">
-  <img src="./profile/stats.svg" width="49%" alt="Public GitHub statistics for alejandrosergio" />
-  <img src="./profile/languages.svg" width="49%" alt="Language distribution across public repositories" />
+  <img src="./profile/stats.svg" width="400" alt="Public GitHub statistics for alejandrosergio" />
+  <img src="./profile/languages.svg" width="400" alt="Language distribution across public repositories" />
 </p>
 <p align="center">
-  <img src="./profile/streak.svg" width="75%" alt="Current and longest GitHub contribution streaks" />
+  <img src="./profile/streak.svg" width="495" alt="Current and longest GitHub contribution streaks" />
 </p>
 
 <picture>
