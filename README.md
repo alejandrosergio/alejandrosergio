@@ -63,11 +63,11 @@ La trayectoria completa, con empresas, fechas y responsabilidades, está en el [
 ## Actividad en GitHub
 
 <p align="center">
-  <img src="./profile/stats.svg" width="49%" alt="Estadísticas públicas de GitHub de alejandrosergio" />
-  <img src="./profile/languages.svg" width="49%" alt="Distribución de lenguajes en repositorios públicos" />
+  <img src="./profile/stats.svg" width="400" alt="Estadísticas públicas de GitHub de alejandrosergio" />
+  <img src="./profile/languages.svg" width="400" alt="Distribución de lenguajes en repositorios públicos" />
 </p>
 <p align="center">
-  <img src="./profile/streak.svg" width="75%" alt="Racha actual e histórica de contribuciones en GitHub" />
+  <img src="./profile/streak.svg" width="495" alt="Racha actual e histórica de contribuciones en GitHub" />
 </p>
 
 <picture>
