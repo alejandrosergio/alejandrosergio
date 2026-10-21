@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="330" viewBox="0 0 1280 330" role="img" aria-labelledby="title desc">
+  <title id="title">Sergio Hernández · .NET y Power Platform</title>
+  <desc id="desc">Desarrollo full stack, automatización e integración de IA. Fondo azul marino con módulos conectados y ondas de datos azules.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#08192e"/><stop offset=".58" stop-color="#102b4b"/><stop offset="1" stop-color="#073960"/></linearGradient>
+    <linearGradient id="line"><stop stop-color="#25d7ff" stop-opacity="0"/><stop offset=".48" stop-color="#25d7ff"/><stop offset="1" stop-color="#0078d4" stop-opacity=".15"/></linearGradient>
+    <linearGradient id="glass" x2="1" y2="1"><stop stop-color="#40d5ff" stop-opacity=".45"/><stop offset="1" stop-color="#0078d4" stop-opacity=".06"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#008de5" stop-opacity=".3"/><stop offset="1" stop-color="#008de5" stop-opacity="0"/></radialGradient>
+    <pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#39caff" opacity=".18"/></pattern>
+    <clipPath id="clip"><rect width="1280" height="330" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1280" height="330" fill="url(#bg)"/>
+    <ellipse cx="1120" cy="180" rx="400" ry="300" fill="url(#glow)"/>
+    <rect x="900" width="380" height="330" fill="url(#dots)"/>
+    <g fill="none" stroke="url(#line)">
+      <path d="M-50 305 C170 190 300 390 550 280 S910 240 1320 310" stroke-width="1.8"/>
+      <path d="M-50 314 C210 220 350 370 620 291 S980 190 1320 270" stroke-width="1"/>
+      <path d="M-50 326 C230 270 420 344 710 286 S1050 220 1320 242" stroke-width="1" stroke-dasharray="2 5"/>
+      <path d="M890 75 H1040 V160 H1148 V241 H1290" stroke-width="1.5"/>
+      <path d="M960 -20 V53 H1173 V135 H1300" stroke-width="1"/>
+    </g>
+    <g fill="url(#glass)" stroke="#39caff" stroke-opacity=".65">
+      <rect x="1005" y="40" width="70" height="70" rx="12"/>
+      <rect x="1115" y="125" width="92" height="92" rx="16"/>
+      <rect x="963" y="225" width="48" height="48" rx="10"/>
+      <rect x="1217" y="30" width="35" height="35" rx="7"/>
+    </g>
+    <g fill="#5ad9ff"><circle cx="1040" cy="160" r="4"/><circle cx="1148" cy="241" r="4"/><circle cx="960" cy="53" r="3"/></g>
+    <g font-family="Segoe UI,Arial,sans-serif">
+      <text x="58" y="62" font-size="17" letter-spacing="5" fill="#5bdcff">SOFTWARE EMPRESARIAL</text>
+      <text x="54" y="144" font-size="65" font-weight="700" letter-spacing="-1.7" fill="#f7fbff">.NET · Power Platform</text>
+      <text x="58" y="195" font-size="25" fill="#d4e4f5">Full stack · Automatización · Integración de IA</text>
+      <rect x="58" y="233" width="46" height="3" rx="1.5" fill="#35d2ff"/>
+      <text x="120" y="242" font-size="20" letter-spacing="2" fill="#eaf4ff">Sergio Hernández</text>
+    </g>
+  </g>
+</svg>

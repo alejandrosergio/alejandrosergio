@@ -1,0 +1,87 @@
+name: Refresh profile visuals
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 7 * * *'
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/profile-visuals.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-visuals
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Check out profile
+        uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          fetch-depth: 1
+
+      - name: Generate public GitHub statistics
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2
+        with:
+          card: stats
+          options: username=alejandrosergio&show_icons=true&hide_rank=true&hide_border=true&bg_color=10243d&title_color=56d4ff&icon_color=56d4ff&text_color=d8e8f8&border_radius=14&custom_title=GitHub%20%C2%B7%20Public%20activity
+          path: profile/stats.svg
+          fail_on_error: 'true'
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate public language distribution
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2
+        with:
+          card: top-langs
+          options: username=alejandrosergio&layout=compact&langs_count=6&hide_border=true&bg_color=10243d&title_color=56d4ff&text_color=d8e8f8&border_radius=14&custom_title=Languages%20in%20public%20repositories
+          path: profile/languages.svg
+          fail_on_error: 'true'
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate contribution streak
+        uses: DenverCoder1/github-readme-streak-stats@d855de1a23fe45bdda5ffbc28a6d4b80b0f107e1 # v1
+        with:
+          options: user=alejandrosergio&hide_border=true&background=10243D&ring=56D4FF&fire=56D4FF&currStreakLabel=56D4FF&currStreakNum=EAF4FF&sideNums=EAF4FF&sideLabels=D8E8F8&dates=9BB5D0&border_radius=14&disable_animations=true
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate contribution animations
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3
+        with:
+          github_user_name: alejandrosergio
+          outputs: |
+            profile/snake.svg?color_snake=%230078d4&color_dots=%23ebf3fc,%23a9dfff,%2356c7ff,%230078d4,%230b4f8c
+            profile/snake-dark.svg?palette=github-dark&color_snake=%2356d4ff&color_dots=%2310243d,%23174670,%231d70a8,%2300a4e5,%2356d4ff
+
+      - name: Validate SVG output
+        run: |
+          python - <<'PY'
+          import pathlib
+          import xml.etree.ElementTree as ET
+
+          for name in ("stats", "languages", "streak", "snake", "snake-dark"):
+              path = pathlib.Path("profile") / f"{name}.svg"
+              root = ET.parse(path).getroot()
+              if root.tag != "{http://www.w3.org/2000/svg}svg":
+                  raise SystemExit(f"Invalid SVG: {path}")
+              text = path.read_text()
+              if "Something went wrong" in text or "API rate limit exceeded" in text:
+                  raise SystemExit(f"Error card: {path}")
+          PY
+
+      - name: Save refreshed visuals
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/stats.svg profile/languages.svg profile/streak.svg profile/snake.svg profile/snake-dark.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m "chore: refresh public profile visuals"
+          git push
