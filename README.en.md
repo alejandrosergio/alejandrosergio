@@ -56,6 +56,7 @@ My full experience, including employers, dates and responsibilities, is availabl
 | Project | What you will find |
 | :--- | :--- |
 | [**Bilingual CV website**](https://github.com/alejandrosergio/sergio-hernandez-cv) | HTML, CSS and JavaScript; accessibility, light/dark themes, and concise and complete printable CVs in English and Spanish. [Visit website](https://sergio-hernandez-cv.alejosergio3000.chatgpt.site/en/). |
+| [**Alejandro’sTech**](https://alejandros-tech.alejosergio3000.chatgpt.site/en/) | My professional space for development, automation and AI, currently under construction. [Website source](https://github.com/alejandrosergio/alejandros-tech). |
 | [**Nexos**](https://github.com/alejandrosergio/Nexos) | Java development technical assessment. |
 
 [Explore public repositories →](https://github.com/alejandrosergio?tab=repositories)
@@ -79,7 +80,7 @@ My full experience, including employers, dates and responsibilities, is availabl
 
 ## Contact
 
-**[alejandro.dev.sergio@outlook.com](mailto:alejandro.dev.sergio@outlook.com)** · [LinkedIn](https://www.linkedin.com/in/sergio-alejandro-hernandez-patino/) · [CV / Résumé](https://sergio-hernandez-cv.alejosergio3000.chatgpt.site/en/)
+**[alejandro.dev.sergio@outlook.com](mailto:alejandro.dev.sergio@outlook.com)** · [LinkedIn](https://www.linkedin.com/in/sergio-alejandro-hernandez-patino/) · [CV / Résumé](https://sergio-hernandez-cv.alejosergio3000.chatgpt.site/en/) · [Alejandro’sTech](https://alejandros-tech.alejosergio3000.chatgpt.site/en/)
 
 <details>
 <summary>Visual credits</summary>

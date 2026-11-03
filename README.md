@@ -56,6 +56,7 @@ La trayectoria completa, con empresas, fechas y responsabilidades, está en el [
 | Proyecto | Qué encontrarás |
 | :--- | :--- |
 | [**Currículum web bilingüe**](https://github.com/alejandrosergio/sergio-hernandez-cv) | HTML, CSS y JavaScript; accesibilidad, temas claro/oscuro y CV resumido y completo para imprimir en español e inglés. [Ver sitio](https://sergio-hernandez-cv.alejosergio3000.chatgpt.site/). |
+| [**Alejandro’sTech**](https://alejandros-tech.alejosergio3000.chatgpt.site/) | Mi espacio profesional sobre desarrollo, automatización e IA, actualmente en construcción. [Código del sitio](https://github.com/alejandrosergio/alejandros-tech). |
 | [**Nexos**](https://github.com/alejandrosergio/Nexos) | Prueba técnica de desarrollo en Java. |
 
 [Explorar repositorios públicos →](https://github.com/alejandrosergio?tab=repositories)
@@ -79,7 +80,7 @@ La trayectoria completa, con empresas, fechas y responsabilidades, está en el [
 
 ## Contacto
 
-**[alejandro.dev.sergio@outlook.com](mailto:alejandro.dev.sergio@outlook.com)** · [LinkedIn](https://www.linkedin.com/in/sergio-alejandro-hernandez-patino/) · [CV / Résumé](https://sergio-hernandez-cv.alejosergio3000.chatgpt.site/)
+**[alejandro.dev.sergio@outlook.com](mailto:alejandro.dev.sergio@outlook.com)** · [LinkedIn](https://www.linkedin.com/in/sergio-alejandro-hernandez-patino/) · [CV / Résumé](https://sergio-hernandez-cv.alejosergio3000.chatgpt.site/) · [Alejandro’sTech](https://alejandros-tech.alejosergio3000.chatgpt.site/)
 
 <details>
 <summary>Créditos de los elementos visuales</summary>
