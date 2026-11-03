@@ -6,7 +6,13 @@
 
 <p align="center">
   <a href="https://sergio-hernandez-cv.alejosergio3000.chatgpt.site/en/"><img src="https://img.shields.io/badge/CV-English-0078D4?style=for-the-badge" alt="Read my CV in English" /></a>
+  <a href="https://alejandros-tech.alejosergio3000.chatgpt.site/en/"><img src="https://img.shields.io/badge/Alejandro%E2%80%99sTech-English-0078D4?style=for-the-badge" alt="Visit Alejandro’sTech in English" /></a>
+  <br />
   <a href="https://sergio-hernandez-cv.alejosergio3000.chatgpt.site/"><img src="https://img.shields.io/badge/CV-Espa%C3%B1ol-10243D?style=for-the-badge" alt="Consultar CV en español" /></a>
+  <a href="https://alejandros-tech.alejosergio3000.chatgpt.site/"><img src="https://img.shields.io/badge/Alejandro%E2%80%99sTech-Espa%C3%B1ol-10243D?style=for-the-badge" alt="Visitar Alejandro’sTech en español" /></a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/sergio-alejandro-hernandez-patino/"><img src="https://img.shields.io/badge/LinkedIn-Let%27s%20connect-0A66C2?style=for-the-badge" alt="LinkedIn profile" /></a>
 </p>
 
@@ -47,7 +53,7 @@ I contribute from analysis and design through testing, deployment and software e
 - **Earlier experience:** Java, Spring Boot, Angular, Oracle and PL/SQL for business services and web interfaces.
 - **Tools and ecosystem:** Git, GitHub, Microsoft 365 and SharePoint.
 
-My full experience, including employers, dates and responsibilities, is available in my [professional CV](https://sergio-hernandez-cv.alejosergio3000.chatgpt.site/en/).
+My full experience, including employers, dates and responsibilities, is available in my [professional CV](https://sergio-hernandez-cv.alejosergio3000.chatgpt.site/en/). My professional website is [Alejandro’sTech](https://alejandros-tech.alejosergio3000.chatgpt.site/en/), currently under construction.
 
 </details>
 

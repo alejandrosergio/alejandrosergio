@@ -6,7 +6,13 @@
 
 <p align="center">
   <a href="https://sergio-hernandez-cv.alejosergio3000.chatgpt.site/"><img src="https://img.shields.io/badge/CV-Espa%C3%B1ol-0078D4?style=for-the-badge" alt="Consultar CV en español" /></a>
+  <a href="https://alejandros-tech.alejosergio3000.chatgpt.site/"><img src="https://img.shields.io/badge/Alejandro%E2%80%99sTech-Espa%C3%B1ol-0078D4?style=for-the-badge" alt="Visitar Alejandro’sTech en español" /></a>
+  <br />
   <a href="https://sergio-hernandez-cv.alejosergio3000.chatgpt.site/en/"><img src="https://img.shields.io/badge/CV-English-10243D?style=for-the-badge" alt="Read my CV in English" /></a>
+  <a href="https://alejandros-tech.alejosergio3000.chatgpt.site/en/"><img src="https://img.shields.io/badge/Alejandro%E2%80%99sTech-English-10243D?style=for-the-badge" alt="Visit Alejandro’sTech in English" /></a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/sergio-alejandro-hernandez-patino/"><img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge" alt="Perfil de LinkedIn" /></a>
 </p>
 
@@ -47,7 +53,7 @@ Participo desde el análisis y el diseño hasta las pruebas, el despliegue y la 
 - **Experiencia anterior:** Java, Spring Boot, Angular, Oracle y PL/SQL en desarrollo de servicios e interfaces empresariales.
 - **Herramientas y ecosistema:** Git, GitHub, Microsoft 365 y SharePoint.
 
-La trayectoria completa, con empresas, fechas y responsabilidades, está en el [CV profesional](https://sergio-hernandez-cv.alejosergio3000.chatgpt.site/).
+La trayectoria completa, con empresas, fechas y responsabilidades, está en el [CV profesional](https://sergio-hernandez-cv.alejosergio3000.chatgpt.site/). Mi web profesional es [Alejandro’sTech](https://alejandros-tech.alejosergio3000.chatgpt.site/), actualmente en construcción.
 
 </details>
 
