@@ -57,7 +57,7 @@ I contribute from analysis and design through testing, deployment, documentation
 - **Earlier experience:** Java, Spring Boot, Angular, Oracle and PL/SQL for business services and web interfaces.
 - **Tools and ecosystem:** Microsoft 365 and SharePoint. Complementary experience with Node.js and Python.
 
-My full experience, including employers, dates and responsibilities, is available in my [professional CV](https://sergio-hernandez-cv.alejosergio3000.chatgpt.site/en/). My professional website is [Alejandro’sTech](https://alejandros-tech.alejosergio3000.chatgpt.site/en/), currently under construction.
+My full experience, including employers, dates and responsibilities, is available in my [professional CV](https://sergio-hernandez-cv.alejosergio3000.chatgpt.site/en/). My professional website, [Alejandro’sTech](https://alejandros-tech.alejosergio3000.chatgpt.site/en/), brings together my background, technologies, personal projects, labs and technical notes on software development, automation and applied AI.
 
 </details>
 
@@ -66,7 +66,7 @@ My full experience, including employers, dates and responsibilities, is availabl
 | Project | What you will find |
 | :--- | :--- |
 | [**Bilingual CV website**](https://github.com/alejandrosergio/sergio-hernandez-cv) | HTML, CSS and JavaScript; accessibility, light/dark themes, and concise and complete printable CVs in English and Spanish. [Visit website](https://sergio-hernandez-cv.alejosergio3000.chatgpt.site/en/). |
-| [**Alejandro’sTech**](https://alejandros-tech.alejosergio3000.chatgpt.site/en/) | My professional space for development, automation and AI, currently under construction. [Website source](https://github.com/alejandrosergio/alejandros-tech). |
+| [**Alejandro’sTech**](https://alejandros-tech.alejosergio3000.chatgpt.site/en/) | Bilingual professional website with my background, personal projects, interactive labs and technical notes on software development, automation and applied AI. [Website source](https://github.com/alejandrosergio/alejandros-tech). |
 | [**Nexos**](https://github.com/alejandrosergio/Nexos) | Java development technical assessment. |
 
 [Explore public repositories →](https://github.com/alejandrosergio?tab=repositories)

@@ -57,7 +57,7 @@ Participo desde el análisis y el diseño hasta las pruebas, el despliegue, la d
 - **Experiencia anterior:** Java, Spring Boot, Angular, Oracle y PL/SQL en desarrollo de servicios e interfaces empresariales.
 - **Herramientas y ecosistema:** Microsoft 365 y SharePoint. Experiencia complementaria con Node.js y Python.
 
-La trayectoria completa, con empresas, fechas y responsabilidades, está en el [CV profesional](https://sergio-hernandez-cv.alejosergio3000.chatgpt.site/). Mi web profesional es [Alejandro’sTech](https://alejandros-tech.alejosergio3000.chatgpt.site/), actualmente en construcción.
+La trayectoria completa, con empresas, fechas y responsabilidades, está en el [CV profesional](https://sergio-hernandez-cv.alejosergio3000.chatgpt.site/). Mi web profesional, [Alejandro’sTech](https://alejandros-tech.alejosergio3000.chatgpt.site/), reúne mi trayectoria, tecnologías, proyectos propios, laboratorios y notas técnicas sobre software, automatización e IA aplicada.
 
 </details>
 
@@ -66,7 +66,7 @@ La trayectoria completa, con empresas, fechas y responsabilidades, está en el [
 | Proyecto | Qué encontrarás |
 | :--- | :--- |
 | [**Currículum web bilingüe**](https://github.com/alejandrosergio/sergio-hernandez-cv) | HTML, CSS y JavaScript; accesibilidad, temas claro/oscuro y CV resumido y completo para imprimir en español e inglés. [Ver sitio](https://sergio-hernandez-cv.alejosergio3000.chatgpt.site/). |
-| [**Alejandro’sTech**](https://alejandros-tech.alejosergio3000.chatgpt.site/) | Mi espacio profesional sobre desarrollo, automatización e IA, actualmente en construcción. [Código del sitio](https://github.com/alejandrosergio/alejandros-tech). |
+| [**Alejandro’sTech**](https://alejandros-tech.alejosergio3000.chatgpt.site/) | Web profesional bilingüe con trayectoria, proyectos propios, laboratorios interactivos y notas técnicas sobre software, automatización e IA aplicada. [Código del sitio](https://github.com/alejandrosergio/alejandros-tech). |
 | [**Nexos**](https://github.com/alejandrosergio/Nexos) | Prueba técnica de desarrollo en Java. |
 
 [Explorar repositorios públicos →](https://github.com/alejandrosergio?tab=repositories)
