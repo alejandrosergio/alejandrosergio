@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="330" viewBox="0 0 1280 330" role="img" aria-labelledby="title desc">
   <title id="title">Sergio Hernández · .NET y Power Platform</title>
-  <desc id="desc">Desarrollo full stack, automatización e integración de IA. Fondo azul marino con módulos conectados y ondas de datos azules.</desc>
+  <desc id="desc">Desarrollo full stack, automatización e IA aplicada. Fondo azul marino con módulos conectados y ondas de datos azules.</desc>
   <defs>
     <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#08192e"/><stop offset=".58" stop-color="#102b4b"/><stop offset="1" stop-color="#073960"/></linearGradient>
     <linearGradient id="line"><stop stop-color="#25d7ff" stop-opacity="0"/><stop offset=".48" stop-color="#25d7ff"/><stop offset="1" stop-color="#0078d4" stop-opacity=".15"/></linearGradient>
@@ -30,7 +30,7 @@
     <g font-family="Segoe UI,Arial,sans-serif">
       <text x="58" y="62" font-size="17" letter-spacing="5" fill="#5bdcff">SOFTWARE EMPRESARIAL</text>
       <text x="54" y="144" font-size="65" font-weight="700" letter-spacing="-1.7" fill="#f7fbff">.NET · Power Platform</text>
-      <text x="58" y="195" font-size="25" fill="#d4e4f5">Full stack · Automatización · Integración de IA</text>
+      <text x="58" y="195" font-size="25" fill="#d4e4f5">Full stack · Automatización · IA aplicada</text>
       <rect x="58" y="233" width="46" height="3" rx="1.5" fill="#35d2ff"/>
       <text x="120" y="242" font-size="20" letter-spacing="2" fill="#eaf4ff">Sergio Hernández</text>
     </g>

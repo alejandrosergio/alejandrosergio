@@ -1,7 +1,7 @@
 <p align="right"><a href="./README.md">Español</a> · <strong>English</strong></p>
 
 <p align="center">
-  <img src="./profile/header-en.svg" width="100%" alt="Sergio Hernández · .NET and Power Platform · Full stack development, automation and AI integration" />
+  <img src="./profile/header-en.svg" width="100%" alt="Sergio Hernández · .NET and Power Platform · Full stack development, automation and applied AI" />
 </p>
 
 <p align="center">
@@ -20,9 +20,11 @@
 
 I am **Sergio Alejandro Hernández Patiño**, a **.NET and Microsoft Power Platform developer** based in Cali, Colombia. I bring **more than six years of experience** combining software development, consulting and technical leadership.
 
-I build full stack applications with **React and .NET**, business applications and automation with **Power Platform**, and integrations using **REST APIs and Azure**. I also integrate language models into applications and workflows through APIs.
+I develop full stack business solutions with **React and .NET**, applications and automation with **Power Platform**, and integrations using **REST APIs and Azure**. I apply **AI** to develop agents and assistants, process documents and enhance application capabilities.
 
-I contribute from analysis and design through testing, deployment and software evolution. My focus is connecting systems and translating business needs into clear, maintainable solutions.
+I contribute from analysis and design through testing, deployment, documentation, support and software evolution. My focus is connecting systems and translating business needs into clear, maintainable solutions.
+
+**Available to start immediately**, open to remote work from Colombia and to employment or hourly and project-based professional services.
 
 ## Technologies and focus
 
@@ -34,24 +36,26 @@ I contribute from analysis and design through testing, deployment and software e
   <img src="https://img.shields.io/badge/Power%20Apps-742774?style=flat-square" alt="Power Apps" />
   <img src="https://img.shields.io/badge/Dataverse-088142?style=flat-square" alt="Dataverse" />
   <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square" alt="Power Automate" />
+  <img src="https://img.shields.io/badge/Copilot%20Studio-0078D4?style=flat-square" alt="Copilot Studio" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square" alt="Azure" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square" alt="SQL Server" />
 </p>
 
 | Area | Technologies and capabilities |
 | :--- | :--- |
-| **Full stack applications** | React, JavaScript, TypeScript, C#, ASP.NET Core/Web API, Entity Framework Core and LINQ. |
-| **Power Platform** | Canvas and model-driven Power Apps, Dataverse, plug-ins, PCF, Power Automate, RPA, custom connectors, solutions and ALM. |
-| **Integration and data** | REST APIs, Azure App Service, Azure Functions, Azure Storage, SQL Server and Power BI. |
-| **Applied AI** | Language model integration through APIs in applications and automation, with technical review of the results. |
+| **Full stack applications** | React, JavaScript, TypeScript, C#, ASP.NET Core/Web API, Entity Framework Core, LINQ and Dapper. |
+| **Power Platform** | Canvas and model-driven Power Apps, Power Fx, Dataverse, plug-ins, role-based security, PCF, Power Automate, RPA, custom connectors, solutions and ALM. |
+| **Integration and data** | REST APIs, Azure App Service, Functions, Storage, Azure SQL, Service Bus, SQL Server and Power BI. Integration with SAP and other ERP systems. |
+| **Applied AI** | Copilot Studio, agents and assistants, RAG, AI Builder, document processing and AI APIs, with technical review of results. |
+| **Delivery and quality** | Git/GitHub, Docker, CI/CD and deployments across Dev/QA/Prod environments using Power Platform Pipelines. |
 
 <details>
 <summary>Education, languages and additional experience</summary>
 
 - **Education:** Technology degree in Information Systems Analysis and Development (ADSI), SENA, 2019–2021.
-- **Languages:** native Spanish and intermediate English (B1).
+- **Languages:** native Spanish. English for reading and technical use (B1 reference), not conversational. Professional communication and interviews in Spanish.
 - **Earlier experience:** Java, Spring Boot, Angular, Oracle and PL/SQL for business services and web interfaces.
-- **Tools and ecosystem:** Git, GitHub, Microsoft 365 and SharePoint.
+- **Tools and ecosystem:** Microsoft 365 and SharePoint. Complementary experience with Node.js and Python.
 
 My full experience, including employers, dates and responsibilities, is available in my [professional CV](https://sergio-hernandez-cv.alejosergio3000.chatgpt.site/en/). My professional website is [Alejandro’sTech](https://alejandros-tech.alejosergio3000.chatgpt.site/en/), currently under construction.
 
