@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://sergio-hernandez-cv.alejosergio3000.chatgpt.site/"><img src="https://img.shields.io/badge/CV-Espa%C3%B1ol-0078D4?style=for-the-badge" alt="Consultar CV en español" /></a>
-  <a href="https://alejandros-tech.alejosergio3000.chatgpt.site/"><img src="https://img.shields.io/badge/Alejandro%E2%80%99sTech-Espa%C3%B1ol-0078D4?style=for-the-badge" alt="Visitar Alejandro’sTech en español" /></a>
+  <a href="https://sergio-hernandez-cv.alejandro-seeik.chatgpt.site/"><img src="https://img.shields.io/badge/CV-Espa%C3%B1ol-0078D4?style=for-the-badge" alt="Consultar CV en español" /></a>
+  <a href="https://alejandros-tech.alejandro-seeik.chatgpt.site/"><img src="https://img.shields.io/badge/Alejandro%E2%80%99sTech-Espa%C3%B1ol-0078D4?style=for-the-badge" alt="Visitar Alejandro’sTech en español" /></a>
   <br />
-  <a href="https://sergio-hernandez-cv.alejosergio3000.chatgpt.site/en/"><img src="https://img.shields.io/badge/CV-English-10243D?style=for-the-badge" alt="Read my CV in English" /></a>
-  <a href="https://alejandros-tech.alejosergio3000.chatgpt.site/en/"><img src="https://img.shields.io/badge/Alejandro%E2%80%99sTech-English-10243D?style=for-the-badge" alt="Visit Alejandro’sTech in English" /></a>
+  <a href="https://sergio-hernandez-cv.alejandro-seeik.chatgpt.site/en/"><img src="https://img.shields.io/badge/CV-English-10243D?style=for-the-badge" alt="Read my CV in English" /></a>
+  <a href="https://alejandros-tech.alejandro-seeik.chatgpt.site/en/"><img src="https://img.shields.io/badge/Alejandro%E2%80%99sTech-English-10243D?style=for-the-badge" alt="Visit Alejandro’sTech in English" /></a>
 </p>
 
 <p align="center">
@@ -57,7 +57,7 @@ Participo desde el análisis y el diseño hasta las pruebas, el despliegue, la d
 - **Experiencia anterior:** Java, Spring Boot, Angular, Oracle y PL/SQL en desarrollo de servicios e interfaces empresariales.
 - **Herramientas y ecosistema:** Microsoft 365 y SharePoint. Experiencia complementaria con Node.js y Python.
 
-La trayectoria completa, con empresas, fechas y responsabilidades, está en el [CV profesional](https://sergio-hernandez-cv.alejosergio3000.chatgpt.site/). Mi web profesional, [Alejandro’sTech](https://alejandros-tech.alejosergio3000.chatgpt.site/), reúne mi trayectoria, tecnologías, proyectos propios, laboratorios y notas técnicas sobre software, automatización e IA aplicada.
+La trayectoria completa, con empresas, fechas y responsabilidades, está en el [CV profesional](https://sergio-hernandez-cv.alejandro-seeik.chatgpt.site/). Mi web profesional, [Alejandro’sTech](https://alejandros-tech.alejandro-seeik.chatgpt.site/), reúne mi trayectoria, tecnologías, proyectos propios, laboratorios y notas técnicas sobre software, automatización e IA aplicada.
 
 </details>
 
@@ -65,8 +65,8 @@ La trayectoria completa, con empresas, fechas y responsabilidades, está en el [
 
 | Proyecto | Qué encontrarás |
 | :--- | :--- |
-| [**Currículum web bilingüe**](https://github.com/alejandrosergio/sergio-hernandez-cv) | HTML, CSS y JavaScript; accesibilidad, temas claro/oscuro y CV resumido y completo para imprimir en español e inglés. [Ver sitio](https://sergio-hernandez-cv.alejosergio3000.chatgpt.site/). |
-| [**Alejandro’sTech**](https://alejandros-tech.alejosergio3000.chatgpt.site/) | Web profesional bilingüe con trayectoria, proyectos propios, laboratorios interactivos y notas técnicas sobre software, automatización e IA aplicada. [Código del sitio](https://github.com/alejandrosergio/alejandros-tech). |
+| [**Currículum web bilingüe**](https://github.com/alejandrosergio/sergio-hernandez-cv) | HTML, CSS y JavaScript; accesibilidad, temas claro/oscuro y CV resumido y completo para imprimir en español e inglés. [Ver sitio](https://sergio-hernandez-cv.alejandro-seeik.chatgpt.site/). |
+| [**Alejandro’sTech**](https://alejandros-tech.alejandro-seeik.chatgpt.site/) | Web profesional bilingüe con trayectoria, proyectos propios, laboratorios interactivos y notas técnicas sobre software, automatización e IA aplicada. [Código del sitio](https://github.com/alejandrosergio/alejandros-tech). |
 | [**Nexos**](https://github.com/alejandrosergio/Nexos) | Prueba técnica de desarrollo en Java. |
 
 [Explorar repositorios públicos →](https://github.com/alejandrosergio?tab=repositories)
@@ -90,7 +90,7 @@ La trayectoria completa, con empresas, fechas y responsabilidades, está en el [
 
 ## Contacto
 
-**[alejandro.dev.sergio@outlook.com](mailto:alejandro.dev.sergio@outlook.com)** · [LinkedIn](https://www.linkedin.com/in/sergio-alejandro-hernandez-patino/) · [CV / Résumé](https://sergio-hernandez-cv.alejosergio3000.chatgpt.site/) · [Alejandro’sTech](https://alejandros-tech.alejosergio3000.chatgpt.site/)
+**[alejandro.dev.sergio@outlook.com](mailto:alejandro.dev.sergio@outlook.com)** · [LinkedIn](https://www.linkedin.com/in/sergio-alejandro-hernandez-patino/) · [CV / Résumé](https://sergio-hernandez-cv.alejandro-seeik.chatgpt.site/) · [Alejandro’sTech](https://alejandros-tech.alejandro-seeik.chatgpt.site/)
 
 <details>
 <summary>Créditos de los elementos visuales</summary>
