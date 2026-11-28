@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://sergio-hernandez-cv.alejosergio3000.chatgpt.site/en/"><img src="https://img.shields.io/badge/CV-English-0078D4?style=for-the-badge" alt="Read my CV in English" /></a>
-  <a href="https://alejandros-tech.alejosergio3000.chatgpt.site/en/"><img src="https://img.shields.io/badge/Alejandro%E2%80%99sTech-English-0078D4?style=for-the-badge" alt="Visit Alejandro’sTech in English" /></a>
+  <a href="https://sergio-hernandez-cv.alejandro-seeik.chatgpt.site/en/"><img src="https://img.shields.io/badge/CV-English-0078D4?style=for-the-badge" alt="Read my CV in English" /></a>
+  <a href="https://alejandros-tech.alejandro-seeik.chatgpt.site/en/"><img src="https://img.shields.io/badge/Alejandro%E2%80%99sTech-English-0078D4?style=for-the-badge" alt="Visit Alejandro’sTech in English" /></a>
   <br />
-  <a href="https://sergio-hernandez-cv.alejosergio3000.chatgpt.site/"><img src="https://img.shields.io/badge/CV-Espa%C3%B1ol-10243D?style=for-the-badge" alt="Consultar CV en español" /></a>
-  <a href="https://alejandros-tech.alejosergio3000.chatgpt.site/"><img src="https://img.shields.io/badge/Alejandro%E2%80%99sTech-Espa%C3%B1ol-10243D?style=for-the-badge" alt="Visitar Alejandro’sTech en español" /></a>
+  <a href="https://sergio-hernandez-cv.alejandro-seeik.chatgpt.site/"><img src="https://img.shields.io/badge/CV-Espa%C3%B1ol-10243D?style=for-the-badge" alt="Consultar CV en español" /></a>
+  <a href="https://alejandros-tech.alejandro-seeik.chatgpt.site/"><img src="https://img.shields.io/badge/Alejandro%E2%80%99sTech-Espa%C3%B1ol-10243D?style=for-the-badge" alt="Visitar Alejandro’sTech en español" /></a>
 </p>
 
 <p align="center">
@@ -57,7 +57,7 @@ I contribute from analysis and design through testing, deployment, documentation
 - **Earlier experience:** Java, Spring Boot, Angular, Oracle and PL/SQL for business services and web interfaces.
 - **Tools and ecosystem:** Microsoft 365 and SharePoint. Complementary experience with Node.js and Python.
 
-My full experience, including employers, dates and responsibilities, is available in my [professional CV](https://sergio-hernandez-cv.alejosergio3000.chatgpt.site/en/). My professional website, [Alejandro’sTech](https://alejandros-tech.alejosergio3000.chatgpt.site/en/), brings together my background, technologies, personal projects, labs and technical notes on software development, automation and applied AI.
+My full experience, including employers, dates and responsibilities, is available in my [professional CV](https://sergio-hernandez-cv.alejandro-seeik.chatgpt.site/en/). My professional website, [Alejandro’sTech](https://alejandros-tech.alejandro-seeik.chatgpt.site/en/), brings together my background, technologies, personal projects, labs and technical notes on software development, automation and applied AI.
 
 </details>
 
@@ -65,8 +65,8 @@ My full experience, including employers, dates and responsibilities, is availabl
 
 | Project | What you will find |
 | :--- | :--- |
-| [**Bilingual CV website**](https://github.com/alejandrosergio/sergio-hernandez-cv) | HTML, CSS and JavaScript; accessibility, light/dark themes, and concise and complete printable CVs in English and Spanish. [Visit website](https://sergio-hernandez-cv.alejosergio3000.chatgpt.site/en/). |
-| [**Alejandro’sTech**](https://alejandros-tech.alejosergio3000.chatgpt.site/en/) | Bilingual professional website with my background, personal projects, interactive labs and technical notes on software development, automation and applied AI. [Website source](https://github.com/alejandrosergio/alejandros-tech). |
+| [**Bilingual CV website**](https://github.com/alejandrosergio/sergio-hernandez-cv) | HTML, CSS and JavaScript; accessibility, light/dark themes, and concise and complete printable CVs in English and Spanish. [Visit website](https://sergio-hernandez-cv.alejandro-seeik.chatgpt.site/en/). |
+| [**Alejandro’sTech**](https://alejandros-tech.alejandro-seeik.chatgpt.site/en/) | Bilingual professional website with my background, personal projects, interactive labs and technical notes on software development, automation and applied AI. [Website source](https://github.com/alejandrosergio/alejandros-tech). |
 | [**Nexos**](https://github.com/alejandrosergio/Nexos) | Java development technical assessment. |
 
 [Explore public repositories →](https://github.com/alejandrosergio?tab=repositories)
@@ -90,7 +90,7 @@ My full experience, including employers, dates and responsibilities, is availabl
 
 ## Contact
 
-**[alejandro.dev.sergio@outlook.com](mailto:alejandro.dev.sergio@outlook.com)** · [LinkedIn](https://www.linkedin.com/in/sergio-alejandro-hernandez-patino/) · [CV / Résumé](https://sergio-hernandez-cv.alejosergio3000.chatgpt.site/en/) · [Alejandro’sTech](https://alejandros-tech.alejosergio3000.chatgpt.site/en/)
+**[alejandro.dev.sergio@outlook.com](mailto:alejandro.dev.sergio@outlook.com)** · [LinkedIn](https://www.linkedin.com/in/sergio-alejandro-hernandez-patino/) · [CV / Résumé](https://sergio-hernandez-cv.alejandro-seeik.chatgpt.site/en/) · [Alejandro’sTech](https://alejandros-tech.alejandro-seeik.chatgpt.site/en/)
 
 <details>
 <summary>Visual credits</summary>
